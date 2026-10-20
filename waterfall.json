@@ -1,0 +1,18 @@
+{
+ "type": "pinnacle-waterfall-summary",
+ "version": 1,
+ "generated": "2026-10-20T07:24:23",
+ "place": "York",
+ "homeTypes": ["Detached", "Semi-Detached", "Townhouse"],
+ "soldSince": "2025-01-01",
+ "gapDays": 90,
+ "salesUsed": 14706,
+ "buckets": [
+  {"label": "0-14 days", "from": 0, "to": 14, "sales": 3449, "averagePct": 103.2, "medianPct": 100.0},
+  {"label": "15-30 days", "from": 15, "to": 30, "sales": 2717, "averagePct": 99.7, "medianPct": 97.4},
+  {"label": "31-60 days", "from": 31, "to": 60, "sales": 2818, "averagePct": 95.8, "medianPct": 94.5},
+  {"label": "61-90 days", "from": 61, "to": 90, "sales": 1700, "averagePct": 92.7, "medianPct": 91.7},
+  {"label": "91-120 days", "from": 91, "to": 120, "sales": 1186, "averagePct": 91.3, "medianPct": 90.1},
+  {"label": "120+ days", "from": 121, "to": null, "sales": 2836, "averagePct": 85.6, "medianPct": 85.5}
+ ]
+}
